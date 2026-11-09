@@ -1,5 +1,11 @@
 # Designing Machine Learning Systems (Chip Huyen 2022)
 
+## Credits
+
+This repository is a personal sandbox based on [chiphuyen/dmls-book](https://github.com/chiphuyen/dmls-book), the companion repo for *Designing Machine Learning Systems* (O'Reilly, 2022) by [Chip Huyen](https://huyenchip.com). All of the original content here, including the chapter summaries, resources, MLOps tools list, and ML review, is her excellent work, and full credit goes to her.
+
+I'm using this copy to study, take notes, and experiment. It is not affiliated with or endorsed by the author. For the official, up-to-date version, please visit the [original repository](https://github.com/chiphuyen/dmls-book), and consider supporting the author by picking up the book.
+
 <!-- toc -->
 
 <!-- tocstop -->
